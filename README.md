@@ -1,7 +1,7 @@
 # RuDiK
 
 This repository contains a Java implementation of RuDiK, a system for discovering of positive and negative logical rules over RDF knowledge graphs.
-The prototype was first developed as a research project under the database group of Prof. Paolo Papotti at Ira A. Fulton Schools of Engineering, Arizona State University
+The prototype was first developed as a research project under the database group of Prof. Paolo Papotti at EURECOM, France.
 
 The current implementation works against a Knowledge Graph specified as a http SPARQL endpoint, please have a look at the src/main/config/Configuration.xml on how to specify the http endpoint and various parameter of the system.
 
@@ -15,5 +15,5 @@ For a full technical report of RuDik and the algorithms involved, please refer t
 # Contacts
 
 Stefano Ortona	<stefano.ortona@gmail.com>
-Paolo Papotti	<papotti@gmail.com>
+Paolo Papotti	(papotti eurecom fr)
 Vamsi Meduri	<vamsikrishna1902@gmail.com>
